@@ -1,0 +1,3 @@
+[submodule "processing_practice"]
+	path = processing_practice
+	url = https://github.com/IsikcanYilmaz/processing_practice.git
